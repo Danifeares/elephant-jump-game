@@ -1,5 +1,7 @@
 # Elefante Pizzaiolo: Corrida com Sabor
-<img alt="Status Em Desenvolvimento" src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green">
+<img alt="Status Em Desenvolvimento" src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green"> 
+
+*A aplicação está em desenvolvimento, sendo os recursos apresentados aqui ainda muito limitados.*
 
 ## Descrição:
 
