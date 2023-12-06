@@ -16,3 +16,6 @@ Acelere através de emocionantes níveis de plataforma, saltando sobre obstácul
 Use controles simples (basta clicar em qualquer tecla) para guiar o elefante pizzaiolo pela corrida, pulando no momento certo para evitar os tomates. </br> 
 </br> 
 Prepare-se para uma aventura única, cheia de humor e desafios em **Elefante Pizzaiolo: Corrida com Sabor**. Corra, pule e torne-se o pizzaiolo mais ágil do reino!
+
+## Você pode conferir o progresso do jogo clicando aqui: [![Jogar](https://img.shields.io/badge/Jogar-Agora-green?style=for-the-badge&logo=appveyor)](https://danifeares.github.io/elephant-jump-game/)
+
